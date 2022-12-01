@@ -1,65 +1,64 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAXVq3eWN3Wb4q4mZmRqTR87vC8YUifKRdfEESLtRG3q1/ts
-#EXTINF:espn ecuador
+#EXTINF:-1 ,espn
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAXVq3eWN3Wb4q4mZmRqTR84aTSaqqog_ie8eC4hs8bwW/ts
-#EXTINF:espn
+#EXTINF:-1 ,espn
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAb82j3AmQdUET49wu0as4UlucctkGu6r_FKluoJsB3IN/ts
-#EXTINF:espn2
+#EXTINF:-1 ,espn
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAb82j3AmQdUET49wu0as4UmHMBf6J0tUm2bi0vdHqxty/ts
-#EXTINF:espn4
+#EXTINF:-1 ,espn
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAQVeE5sYKdv3a9b-ha0RAw0Z-SP4Niwzk-Ou8aI6b1YE/ts
-#EXTINF:espnmx
+#EXTINF:-1 ,espn
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAUbZiJzzAm-ELGA12lPZq_jlM4AAPRN-mua7MjAUW2Tq/ts
-#EXTINF:espnmx
+#EXTINF:-1 ,espn
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAT8p4a8-cwSPly4nsA5BcjJb91lYimW2eNaa8_VFHKfc/ts
-#EXTINF:espnmx
+#EXTINF:-1 ,espn
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAQ-JoCheaYxrUzEIjwLolrcRarS9qedH8S5zluZmbkrQ/ts
-#EXTINF:espnmx
+#EXTINF:-1 ,espn
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAQ-JoCheaYxrUzEIjwLolrd9OmRP7m2xEq9j7UR9fYWd/ts
-#EXTINF:espnmx
+#EXTINF:-1 ,espn
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAQ-JoCheaYxrUzEIjwLolrc-hINFqHUEjfcGPDeRsUPf/ts
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAUbZiJzzAm-ELGA12lPZq_ibqjTa2d3FDdpBkgOEbPvw/ts
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAeR_AA9qQuwqbwKYfdLbGxsaOqzVU_ECxZdOhEuFres8/ts
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAeR_AA9qQuwqbwKYfdLbGxuHTT7XuK8gD8kG3ZHhNeEH/ts
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAeR_AA9qQuwqbwKYfdLbGxtDa3iA4Gd1P0tDuHTYDdCb/ts
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAeR_AA9qQuwqbwKYfdLbGxttsqVPzQolByTYhppYZYi9/ts
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAT8p4a8-cwSPly4nsA5BcjJSy46GUbIQFIPGmDncprLI/ts
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAT8p4a8-cwSPly4nsA5BcjIxWomdvuNoVm7KJaff1VUb/ts
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAT8p4a8-cwSPly4nsA5BcjKEq7ijNGj1aSCgzKiHZ3Kg/ts
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAT8p4a8-cwSPly4nsA5BcjLBcFQIsmxBHbrAshqmjBpQ/ts
-#EXTINF:directv
+#EXTINF:-1 ,directv
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAT8p4a8-cwSPly4nsA5BcjIThMUWDcDR8PLqzc_eRiaA/ts
-#EXTINF:tntsport  chile
+#EXTINF:-1 ,tntsport  chile
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAT8p4a8-cwSPly4nsA5BcjImwJ50ad_4EMHYQRiuDEjV/ts
-#EXTINF:tntsport  chile
+#EXTINF:-1 ,tntsport  chile
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAT8p4a8-cwSPly4nsA5BcjIewG3Nbs00v6eGtAXVdJIL/ts
-#EXTINF:tntsport  chile
+#EXTINF:-1 ,tntsport  chile
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAT8p4a8-cwSPly4nsA5BcjJSy46GUbIQFIPGmDncprLI/ts
-#EXTINF:ARGENTINA
+#EXTINF:-1 ,ARGENTINA
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAW5fzRY5PnMYF_ruM2540DcO1sPv2cZRhFa_h5fsepl0/ts
-#EXTINF:ARGENTINA
+#EXTINF:-1 ,ARGENTINA
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTATNLDWHNkEviDfXORcez8Pt0kkDhXA7XGqnc34x_lK5l/ts
-#EXTINF:ARGENTINA
+#EXTINF:-1 ,ARGENTINA
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAZ58408HxivyIf-4eoXI1y_3KPt28ZXdMH2TMewYeiat/ts
-#EXTINF:latina
+#EXTINF:-1 ,latina
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAS7bX92kfTKXHuYuccK4oq6HrQV9FxuPdNhUBwcKX149/ts
-#EXTINF:mexico
+#EXTINF:-1 ,mexico
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAWdhfmF9up9horWrmUw6K06icaIVx86UwGVKW-sI01A3/ts
-#EXTINF:mexico
+#EXTINF:-1 ,mexico
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAWdhfmF9up9horWrmUw6K07cOiIi9PixfMOJU7BkCT5K/ts
-#EXTINF:mexico
+#EXTINF:-1 ,mexico
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAWdhfmF9up9horWrmUw6K06wgdhkwOP7LH7XXm1Y9TEQ/ts
-#EXTINF:TELEMUNDO
+#EXTINF:-1 ,telemundo
 http://jumangis.com:2082/play/Fkw6gkJzvZKkfg4n3vKTAYdB8amFaSB1wwESx3WfPggKXiVa4ucM3xaolDJEOXkT/ts
 
